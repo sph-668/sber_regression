@@ -13,7 +13,7 @@ fun main() {
         .build()
 
     val dataset: DataFrame = Read.csv(
-        "C:\\Users\Sofar\\Documents\\src\\main\\resources\\house_price_regression_dataset.csv",
+        "C:\\Users\\Sofar\\Documents\\src\\main\\resources\\house_price_regression_dataset.csv",
         dsFileFormat
     )
 
